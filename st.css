@@ -1,0 +1,10 @@
+.columns__title{
+    text-align: center;
+    margin: 0px 0px 30px 0px;
+}
+.columns__row{
+    display: flex;
+}
+.columns__col{
+    flex: 0 1 25%;
+}
